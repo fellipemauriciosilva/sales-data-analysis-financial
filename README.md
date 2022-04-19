@@ -1,6 +1,6 @@
 # sales-data-analysis-financial
 
-Prova realizada para Agibank em que consiste em um sistema de analise de dados de vendas.
+- Prova realizada para Agibank em que consiste em um sistema de analise de dados de vendas.
 
 ## Funcionalidades
 - Sistema deve importar lotes de arquivos, ler e analisar os dados e produzir um relatório.
