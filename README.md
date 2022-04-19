@@ -9,8 +9,10 @@ Prova realizada para Agibank em que consiste em um sistema de analise de dados d
 ![alt text](https://github.com/fellipemauriciosilva/sales-data-analysis/blob/main/analysis-sale.jpg?raw=true)
 
 ## Tecnologias
+- Spring Boot
 - Spring Batch
 - Spring Kafka
+- Kafka
 
 ## Pré-requisitos
 - Java 14
